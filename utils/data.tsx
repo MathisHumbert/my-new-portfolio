@@ -1,5 +1,5 @@
 export const home_data = {
-  nav_data: [
+  header_data: [
     {
       id: 1,
       title: 'intro',
@@ -39,7 +39,7 @@ export const home_data = {
       title: 'global',
     },
   ],
-  front_end_skills_data: [
+  frontend_skills_data: [
     {
       id: 1,
       title: 'Javascript',
@@ -121,7 +121,7 @@ export const home_data = {
       time: '14',
     },
   ],
-  back_end_skills_data: [
+  backend_skills_data: [
     {
       id: 1,
       title: 'NodeJS',
@@ -155,7 +155,7 @@ export const home_data = {
       time: '6',
     },
   ],
-  gloab_skills_data: [
+  global_skills_data: [
     {
       id: 1,
       title: 'Figma',
